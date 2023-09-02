@@ -1,3 +1,6 @@
 [submodule "JAIA-FRONT"]
 	path = JAIA-FRONT
 	url = https://github.com/B1nary-Devs/JAIA-FRONT
+[submodule "JAIA-BACK"]
+	path = JAIA-BACK
+	url = https://github.com/B1nary-Devs/JAIA-BACK

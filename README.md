@@ -32,38 +32,87 @@ O desafio consiste em desenvolver um sistema abrangente para controlar anomalias
 -------------------------------------------------------
 
 # CRONOGRAMA
-
+<div align="center">
+  
 ### [1º Sprint - 04/09 a 24/09](#)
 ### [2º Sprint - 25/09 a 15/10](#)
 ### [3º Sprint - 16/10 a 05/11](#)
 ### [4º Sprint - 06/11 a 26/11](#)  
 
+</div>
+
 -------------------------------------------------------
 
 # BACKLOG DO PRODUTO
+<details>
+<summary> Visualizar Backlog do Produto</summary>
 
 ![Backlog do Produto](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/bd4b72f1-4dfd-4cfd-b4a2-f2ff39fab0ed)
 
+</details>
+
+-------------------------------------------------------
+
 # BACKLOG 1º SPRINT
+<details>
+<summary> Visualizar Backlog da 1º Sprint</summary>
+  
 ![Backlog 1 Sprint](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/90bb915a-5c67-4f88-8347-01f975dcafeb)
 
+</details>
+
+-------------------------------------------------------
+
 # BURNDOWN
+<details>
+<summary> Visualizar Burndown</summary>
+  
 ![Burndown](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/5c979e00-34fd-42a2-b534-9a16c0ba0645)
 
+</details>
+
+-------------------------------------------------------
+
 # MODELAGEM CONCEITUAL
+<details>
+<summary> Visualizar Modelagem Conceitual</summary>
+</details>
+
+-------------------------------------------------------
 
 # JORNADA DO USUÁRIO 
+<details>
+<summary> Visualizar Jornada do Usuário</summary>
+</details>
+
+-------------------------------------------------------
 
 # PROTÓTIPOS
-- CADASTRO DE SEGMENTO
-- CADASTRO DE PRESTADOR DE SERVIÇO
+<details>
+<summary> CADASTRO DE SEGMENTO </summary>
+</details>
+
+<details>
+<summary> CADASTRO DE PRESTADOR DE SERVIÇO </summary>
+</details>
+
+-------------------------------------------------------
 
 # BACKLOG 2º SPRINT
-![Backlog 2 Sprint](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/cdaeb4fd-f1a8-4816-a542-49895c3e47db)
 
+<details>
+<summary> Visualizar Backlog da 1º Sprint </summary>
+  
+![Backlog 2 Sprint](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/cdaeb4fd-f1a8-4816-a542-49895c3e47db)
+</details>
+
+-------------------------------------------------------
 
 # TECNOLOGIAS UTILIZADAS
-![Tecnologias Utilizadas](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/a6851ab5-83c9-47eb-83cf-7bcf9cd06da9)
 
-
-
+<details>
+<summary> Visualizar Tecnologias </summary>
+  
+![Tecnologias Utilizadas](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/fcda4fb7-121c-4cfe-a828-d2dec250e1f2)
+  
+</details>

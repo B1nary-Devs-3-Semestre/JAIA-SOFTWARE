@@ -3,13 +3,14 @@
 ![B1NARY INSPEC](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/9a081b92-bb7d-4a3f-8b88-f1e68f69848e)
 
 -------------------------------------------------------
+![Desafio](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/5282760e-9a45-4159-8757-ece6eea18a8e)
 
-# DESAFIO
 O desafio consiste em desenvolver um sistema abrangente para controlar anomalias identificadas em um Laudo de Inspeção Predial, com funcionalidades-chave como diferenciação de segmentos específicos de um edifício, cadastro de prestadores de serviço, geração eficiente de ordens de serviço e criação de relatórios detalhados. Esse sistema é crucial para melhorar a gestão e eficácia na correção de anomalias, promovendo a preservação do patrimônio e tomada de decisões informadas.
 
 -------------------------------------------------------
 
-# EQUIPE DE DESENVOLVIMENTO 
+![Equipe Desenvolvimento](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/12b0337c-a449-4329-881a-aba7dca72d5f)
+
 
 <div align="center">
 <details>
@@ -31,7 +32,8 @@ O desafio consiste em desenvolver um sistema abrangente para controlar anomalias
 
 -------------------------------------------------------
 
-# CRONOGRAMA
+![Cronograma](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/64ce0e58-2bb4-418e-824b-9597f7ecd73c)
+
 <div align="center">
   
 ### [1º Sprint - 04/09 a 24/09](#)
@@ -43,7 +45,8 @@ O desafio consiste em desenvolver um sistema abrangente para controlar anomalias
 
 -------------------------------------------------------
 
-# BACKLOG DO PRODUTO
+![Backlog do Produto](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/07478cbe-e3de-40f4-b989-3d2465419b84)
+
 <details>
 <summary> Visualizar Backlog do Produto</summary>
 
@@ -53,7 +56,8 @@ O desafio consiste em desenvolver um sistema abrangente para controlar anomalias
 
 -------------------------------------------------------
 
-# BACKLOG 1º SPRINT
+![Backlog 1 Srint](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/78c69ee8-9fce-481c-9045-e7f5ee959cd1)
+
 <details>
 <summary> Visualizar Backlog da 1º Sprint</summary>
   
@@ -62,8 +66,8 @@ O desafio consiste em desenvolver um sistema abrangente para controlar anomalias
 </details>
 
 -------------------------------------------------------
+![Burndown](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/842ee106-98f2-4d3a-b081-c2dd6c70096a)
 
-# BURNDOWN
 <details>
 <summary> Visualizar Burndown</summary>
   

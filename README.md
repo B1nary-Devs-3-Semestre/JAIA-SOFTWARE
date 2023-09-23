@@ -26,7 +26,6 @@ O desafio consiste em desenvolver um sistema abrangente para controlar anomalias
 | Desenvolvedor| Ludmila Chagas | <a href="https://br.linkedin.com/in/ludmila-chagas-273548187" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> | <a href="https://github.com/ludmila-chagas" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> |
 | Desenvolvedor |  Wallace Honorato| <a href="https://www.linkedin.com/in/wallace-honorato-b15a3b1a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> | <a href="https://github.com/WallaceHS20" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>  |
 
-</div>
 </summary>
 </details>
 
@@ -34,14 +33,11 @@ O desafio consiste em desenvolver um sistema abrangente para controlar anomalias
 
 ![Cronograma](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/64ce0e58-2bb4-418e-824b-9597f7ecd73c)
 
-<div align="center">
-  
 ### [1º Sprint - 04/09 a 24/09](#)
 ### [2º Sprint - 25/09 a 15/10](#)
 ### [3º Sprint - 16/10 a 05/11](#)
 ### [4º Sprint - 06/11 a 26/11](#)  
 
-</div>
 
 -------------------------------------------------------
 
@@ -77,23 +73,30 @@ O desafio consiste em desenvolver um sistema abrangente para controlar anomalias
 
 -------------------------------------------------------
 
-# MODELAGEM CONCEITUAL
+![Modelagem Conceitual](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/42adde14-1088-4512-b06c-79b1f31cbfe3)
+
 <details>
 <summary> Visualizar Modelagem Conceitual</summary>
+
+![Modelagem Conceitual](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/ccf9103e-f89d-4da0-bf9e-489bc4c34e6b)
+
 </details>
 
 -------------------------------------------------------
 
-# JORNADA DO USUÁRIO 
+![Jornada do Usuário](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/7041d608-2cfe-43f6-8d03-ccaf0598b486)
+
 <details>
 <summary> Visualizar Jornada do Usuário</summary>
 </details>
 
 -------------------------------------------------------
 
-# PROTÓTIPOS
+![Prototipo](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/39206eee-f6e5-4eab-932d-810af39f4bb8)
+
 <details>
 <summary> CADASTRO DE SEGMENTO </summary>
+
 </details>
 
 <details>
@@ -102,21 +105,17 @@ O desafio consiste em desenvolver um sistema abrangente para controlar anomalias
 
 -------------------------------------------------------
 
-# BACKLOG 2º SPRINT
+![Backlog 2 Sprint](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/e31b513a-2f49-4780-ac20-fdcfab0b03ed)
 
 <details>
-<summary> Visualizar Backlog da 1º Sprint </summary>
+<summary> Visualizar Backlog da 2º Sprint </summary>
   
 ![Backlog 2 Sprint](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/cdaeb4fd-f1a8-4816-a542-49895c3e47db)
 </details>
+</div>
 
 -------------------------------------------------------
 
-# TECNOLOGIAS UTILIZADAS
+![Tecnologias Utilizadas](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/432ce0c6-5b89-4bad-946f-c2804348b4c1)
 
-<details>
-<summary> Visualizar Tecnologias </summary>
   
-![Tecnologias Utilizadas](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/fcda4fb7-121c-4cfe-a828-d2dec250e1f2)
-  
-</details>

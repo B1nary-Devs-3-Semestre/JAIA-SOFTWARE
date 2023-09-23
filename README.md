@@ -86,9 +86,9 @@ O desafio consiste em desenvolver um sistema abrangente para controlar anomalias
 
 ![Jornada do Usuário](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/7041d608-2cfe-43f6-8d03-ccaf0598b486)
 
-<details>
-<summary> Visualizar Jornada do Usuário</summary>
-</details>
+### Para visualizar a jornada do usuário, selecione a imagem abaixo:
+
+<a href=" https://miro.com/app/board/uXjVMp3e1a0=/?share_link_id=756973775421"  target="blank"><img src="https://img.shields.io/badge/Miro-050038.svg?style=for-the-badge&logo=Miro&logoColor=white" target="_blank"></a>
 
 -------------------------------------------------------
 
@@ -97,10 +97,16 @@ O desafio consiste em desenvolver um sistema abrangente para controlar anomalias
 <details>
 <summary> CADASTRO DE SEGMENTO </summary>
 
+![Cadastro de segmento](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/723377e6-b1c5-4337-9064-7ba45d88c41c)
+
 </details>
 
 <details>
 <summary> CADASTRO DE PRESTADOR DE SERVIÇO </summary>
+
+![cadastro de prestador de serviço](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/9edc1ebe-fdf7-4705-999d-36cb70a05f51)
+
+  
 </details>
 
 -------------------------------------------------------

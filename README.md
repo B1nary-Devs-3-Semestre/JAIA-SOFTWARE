@@ -88,7 +88,10 @@ O desafio consiste em desenvolver um sistema abrangente para controlar anomalias
 
 ### Para visualizar a jornada do usuário, selecione a imagem abaixo:
 
-<a href=" https://miro.com/app/board/uXjVMp3e1a0=/?share_link_id=756973775421"  target="blank"><img src="https://img.shields.io/badge/Miro-050038.svg?style=for-the-badge&logo=Miro&logoColor=white" target="_blank"></a>
+<a href="https://miro.com/app/board/uXjVMp3e1a0=/?share_link_id=756973775421" target="_blank">
+  <img src="https://img.shields.io/badge/Miro-050038.svg?style=for-the-badge&logo=Miro&logoColor=white" target="_blank">
+</a>
+
 
 -------------------------------------------------------
 

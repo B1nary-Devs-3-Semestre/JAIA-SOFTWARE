@@ -7,6 +7,10 @@
 
 O desafio consiste em desenvolver um sistema abrangente para controlar anomalias identificadas em um Laudo de Inspeção Predial, com funcionalidades-chave como diferenciação de segmentos específicos de um edifício, cadastro de prestadores de serviço, geração eficiente de ordens de serviço e criação de relatórios detalhados. Esse sistema é crucial para melhorar a gestão e eficácia na correção de anomalias, promovendo a preservação do patrimônio e tomada de decisões informadas.
 
+# Solução
+
+A equipe da B1nary Devs desenvolverá um sistema web abrangente que simplificará a gestão de prestadores de serviço, segmentos e ordens de serviço. Como parte deste projeto, estamos desenvolvendo uma landing page intuitiva que facilitará a solicitação de novas ordens de serviço para os nossos novos clientes por meio de um simples formulário. Para os nossos clientes existentes, disponibilizaremos uma landing page personalizada, onde poderão acessar facilmente suas ordens de serviço anteriores, baixar laudos novamente e fornecer feedbacks valiosos, incluindo sugestões e reclamações. Além disso, eles também terão a opção de fazer novas solicitações de ordens de serviço.
+
 -------------------------------------------------------
 
 ![Equipe Desenvolvimento](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/12b0337c-a449-4329-881a-aba7dca72d5f)

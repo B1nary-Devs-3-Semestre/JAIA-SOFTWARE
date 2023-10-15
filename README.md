@@ -37,8 +37,8 @@ A equipe da B1nary Devs desenvolverá um sistema web abrangente que simplificar�
 
 ![Cronograma](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/64ce0e58-2bb4-418e-824b-9597f7ecd73c)
 
-### [1º Sprint - 04/09 a 24/09](#)
-### [2º Sprint - 25/09 a 15/10](#)
+### [1º Sprint - 04/09 a 24/09](#) :white_check_mark:
+### [2º Sprint - 25/09 a 15/10](#) :white_check_mark:
 ### [3º Sprint - 16/10 a 05/11](#)
 ### [4º Sprint - 06/11 a 26/11](#)  
 
@@ -56,7 +56,7 @@ A equipe da B1nary Devs desenvolverá um sistema web abrangente que simplificar�
 
 -------------------------------------------------------
 
-![Backlog 1 Srint](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/78c69ee8-9fce-481c-9045-e7f5ee959cd1)
+![Backlog 1 Srint](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/e2b7afba-79fe-42c7-9bec-34c6f9d65298)
 
 <details>
 <summary> Visualizar Backlog da 1º Sprint</summary>
@@ -65,9 +65,6 @@ A equipe da B1nary Devs desenvolverá um sistema web abrangente que simplificar�
 
 </details>
 
--------------------------------------------------------
-![Burndown](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/842ee106-98f2-4d3a-b081-c2dd6c70096a)
-
 <details>
 <summary> Visualizar Burndown</summary>
   
@@ -75,16 +72,28 @@ A equipe da B1nary Devs desenvolverá um sistema web abrangente que simplificar�
 
 </details>
 
--------------------------------------------------------
-
-![Modelagem Conceitual](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/42adde14-1088-4512-b06c-79b1f31cbfe3)
-
 <details>
 <summary> Visualizar Modelagem Conceitual</summary>
 
 ![Modelagem Conceitual](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/ccf9103e-f89d-4da0-bf9e-489bc4c34e6b)
 
 </details>
+
+-------------------------------------------------------
+
+![Backlog 2 Sprint](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/e31b513a-2f49-4780-ac20-fdcfab0b03ed)
+
+<details>
+<summary> Visualizar Backlog da 2º Sprint </summary>
+  
+![Backlog 2 Sprint](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/cdaeb4fd-f1a8-4816-a542-49895c3e47db)
+</details>
+
+![Burndown](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/842ee106-98f2-4d3a-b081-c2dd6c70096a)
+
+![Modelagem Conceitual](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/42adde14-1088-4512-b06c-79b1f31cbfe3)
+</div>
+
 
 -------------------------------------------------------
 
@@ -115,17 +124,6 @@ A equipe da B1nary Devs desenvolverá um sistema web abrangente que simplificar�
 
   
 </details>
-
--------------------------------------------------------
-
-![Backlog 2 Sprint](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/e31b513a-2f49-4780-ac20-fdcfab0b03ed)
-
-<details>
-<summary> Visualizar Backlog da 2º Sprint </summary>
-  
-![Backlog 2 Sprint](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/cdaeb4fd-f1a8-4816-a542-49895c3e47db)
-</details>
-</div>
 
 -------------------------------------------------------
 

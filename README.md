@@ -37,8 +37,8 @@ A equipe da B1nary Devs desenvolverá um sistema web abrangente que simplificar�
 
 ![Cronograma](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/64ce0e58-2bb4-418e-824b-9597f7ecd73c)
 
-### [1º Sprint - 04/09 a 24/09](#)
-### [2º Sprint - 25/09 a 15/10](#)
+### [1º Sprint - 04/09 a 24/09](#) :white_check_mark:
+### [2º Sprint - 25/09 a 15/10](#) :white_check_mark:
 ### [3º Sprint - 16/10 a 05/11](#)
 ### [4º Sprint - 06/11 a 26/11](#)  
 
@@ -56,7 +56,7 @@ A equipe da B1nary Devs desenvolverá um sistema web abrangente que simplificar�
 
 -------------------------------------------------------
 
-![Backlog 1 Srint](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/78c69ee8-9fce-481c-9045-e7f5ee959cd1)
+![Backlog 1 Srint](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/e2b7afba-79fe-42c7-9bec-34c6f9d65298)
 
 <details>
 <summary> Visualizar Backlog da 1º Sprint</summary>
@@ -65,9 +65,6 @@ A equipe da B1nary Devs desenvolverá um sistema web abrangente que simplificar�
 
 </details>
 
--------------------------------------------------------
-![Burndown](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/842ee106-98f2-4d3a-b081-c2dd6c70096a)
-
 <details>
 <summary> Visualizar Burndown</summary>
   
@@ -75,16 +72,44 @@ A equipe da B1nary Devs desenvolverá um sistema web abrangente que simplificar�
 
 </details>
 
--------------------------------------------------------
-
-![Modelagem Conceitual](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/42adde14-1088-4512-b06c-79b1f31cbfe3)
-
 <details>
 <summary> Visualizar Modelagem Conceitual</summary>
 
 ![Modelagem Conceitual](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/ccf9103e-f89d-4da0-bf9e-489bc4c34e6b)
 
 </details>
+
+-------------------------------------------------------
+
+![Backlog 2 Sprint](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/e31b513a-2f49-4780-ac20-fdcfab0b03ed)
+
+<details>
+<summary> Visualizar Backlog da 2º Sprint </summary>
+  
+![Backlog 2 Sprint](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/cdaeb4fd-f1a8-4816-a542-49895c3e47db)
+</details>
+
+![Burndown](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/842ee106-98f2-4d3a-b081-c2dd6c70096a)
+
+<details>
+  <summary> Visualizar Burndown da 2º Sprint</summary>
+
+  ![burndown](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/817e4e48-adfd-48af-b994-ea0651abdaee)
+
+</details>
+
+![Modelagem Conceitual](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/42adde14-1088-4512-b06c-79b1f31cbfe3)
+
+<details>
+  <summary> Visualizar Modelagem Conceitual da 2º Sprint</summary>
+
+  ![Modelagem Conceitual 2](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/5523d881-f43d-4d6d-a8d2-02bdc6077c65)
+
+</details>
+
+
+</div>
+
 
 -------------------------------------------------------
 
@@ -102,30 +127,55 @@ A equipe da B1nary Devs desenvolverá um sistema web abrangente que simplificar�
 ![Prototipo](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/39206eee-f6e5-4eab-932d-810af39f4bb8)
 
 <details>
-<summary> CADASTRO DE SEGMENTO </summary>
+<summary>SEGMENTO </summary>
+
+### Cadastro 
 
 ![Cadastro de segmento](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/723377e6-b1c5-4337-9064-7ba45d88c41c)
 
+### Consulta
+
+![Consulta de Segmento](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/c1b97036-e43b-44d8-864f-ec887b3874b1)
+
+### Visualização
+
+![Visualizar Segmento](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/c138bf1c-9e63-4923-8151-81ef69c6b980)
+
 </details>
 
 <details>
-<summary> CADASTRO DE PRESTADOR DE SERVIÇO </summary>
+<summary>PRESTADOR DE SERVIÇO </summary>
+
+### Cadastro 
 
 ![cadastro de prestador de serviço](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/9edc1ebe-fdf7-4705-999d-36cb70a05f51)
 
-  
+### Consulta
+
+![consulta de segmento](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/f3ec5880-c825-4080-a898-0c97a086d3d2)
+
+### Visualização
+
+![visualizar segmento](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/85eb6a20-761b-4997-b30f-a5a73f4deaa7)
+
 </details>
-
--------------------------------------------------------
-
-![Backlog 2 Sprint](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/e31b513a-2f49-4780-ac20-fdcfab0b03ed)
 
 <details>
-<summary> Visualizar Backlog da 2º Sprint </summary>
-  
-![Backlog 2 Sprint](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/cdaeb4fd-f1a8-4816-a542-49895c3e47db)
+  <summary> ORDEM DE SERVIÇO </summary>
+
+### Cadastro 
+
+  ![Cadastro ordem de serviço](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/a99e4096-1b2f-4b28-9496-cd5b12ee2774)
+
+### Consulta
+
+![consulta ordem de serviço](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/72c71266-cbb7-463d-acfd-9607e10714fb)
+
+### Visualização
+
+![visualizar ordem de serviço](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/0d9678de-b53f-49f1-8354-f3a5cdd5e2a3)
+
 </details>
-</div>
 
 -------------------------------------------------------
 

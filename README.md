@@ -39,7 +39,7 @@ A equipe da B1nary Devs desenvolverá um sistema web abrangente que simplificar�
 
 ### [1º Sprint - 04/09 a 24/09](#) :white_check_mark:
 ### [2º Sprint - 25/09 a 15/10](#) :white_check_mark:
-### [3º Sprint - 16/10 a 05/11](#)
+### [3º Sprint - 16/10 a 05/11](#) :white_check_mark:
 ### [4º Sprint - 06/11 a 26/11](#)  
 
 
@@ -50,13 +50,13 @@ A equipe da B1nary Devs desenvolverá um sistema web abrangente que simplificar�
 <details>
 <summary> Visualizar Backlog do Produto</summary>
 
-![Backlog do Produto](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/bd4b72f1-4dfd-4cfd-b4a2-f2ff39fab0ed)
+![backlog do produto](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/05ceb126-ef48-4276-a576-7c1309cec40f)
 
 </details>
 
 -------------------------------------------------------
 
-![Backlog 1 Srint](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/e2b7afba-79fe-42c7-9bec-34c6f9d65298)
+![1 Srint](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/e2b7afba-79fe-42c7-9bec-34c6f9d65298)
 
 <details>
 <summary> Visualizar Backlog da 1º Sprint</summary>
@@ -81,7 +81,7 @@ A equipe da B1nary Devs desenvolverá um sistema web abrangente que simplificar�
 
 -------------------------------------------------------
 
-![Backlog 2 Sprint](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/e31b513a-2f49-4780-ac20-fdcfab0b03ed)
+![2 Sprint](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/a215aac6-00b4-46a8-9f70-3165d62aceb2)
 
 <details>
 <summary> Visualizar Backlog da 2º Sprint </summary>
@@ -89,24 +89,42 @@ A equipe da B1nary Devs desenvolverá um sistema web abrangente que simplificar�
 ![Backlog 2 Sprint](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/cdaeb4fd-f1a8-4816-a542-49895c3e47db)
 </details>
 
-![Burndown](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/842ee106-98f2-4d3a-b081-c2dd6c70096a)
-
 <details>
-  <summary> Visualizar Burndown da 2º Sprint</summary>
+  <summary> Visualizar Burndown</summary>
 
   ![burndown](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/817e4e48-adfd-48af-b994-ea0651abdaee)
 
 </details>
 
-![Modelagem Conceitual](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/42adde14-1088-4512-b06c-79b1f31cbfe3)
-
 <details>
-  <summary> Visualizar Modelagem Conceitual da 2º Sprint</summary>
+  <summary> Visualizar Modelagem Conceitual</summary>
 
   ![Modelagem Conceitual 2](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/5523d881-f43d-4d6d-a8d2-02bdc6077c65)
 
 </details>
 
+![backlog 3 sprint](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/a9ba6292-8478-4c05-ba74-ac81b30811ad)
+
+<details>
+<summary> Visualizar Backlog da 3º Sprint </summary>
+  
+![backlog 3 sprint](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/083b3979-2819-4816-87a9-23eb270c7391)
+</details>
+
+![Burndown](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/842ee106-98f2-4d3a-b081-c2dd6c70096a)
+
+<details>
+  <summary> Visualizar Burndown 3º Sprint</summary>
+</details>
+
+![Modelagem Conceitual](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/42adde14-1088-4512-b06c-79b1f31cbfe3)
+
+<details>
+  <summary> Visualizar Modelagem Conceitual 3º Sprint </summary>
+  
+  ![Modelagem conceitual](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/4690f313-83f2-469d-ac98-e9c4ba320f80)
+  
+</details>
 
 </div>
 
@@ -125,6 +143,14 @@ A equipe da B1nary Devs desenvolverá um sistema web abrangente que simplificar�
 -------------------------------------------------------
 
 ![Prototipo](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/39206eee-f6e5-4eab-932d-810af39f4bb8)
+
+<details>
+  <summary>LOGIN</summary>
+
+  ![login](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/e5831235-2abd-4a3c-8343-f29055fa1501)
+
+</details>
+
 
 <details>
 <summary>SEGMENTO </summary>
@@ -174,6 +200,11 @@ A equipe da B1nary Devs desenvolverá um sistema web abrangente que simplificar�
 ### Visualização
 
 ![visualizar ordem de serviço](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/0d9678de-b53f-49f1-8354-f3a5cdd5e2a3)
+
+## Aprovação
+
+![image](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/aef223f2-0808-412e-947b-ee1ed5637693)
+
 
 </details>
 

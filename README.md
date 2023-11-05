@@ -115,9 +115,9 @@ A equipe da B1nary Devs desenvolverá um sistema web abrangente que simplificar�
 
 <details>
   <summary> Visualizar Burndown 3º Sprint</summary>
-  ![burn3](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/101959064/e38ef1be-abbf-42cf-830f-b41f8ab95d76)
-
   
+  ![burn3](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/101959064/3351f892-c97c-4352-9cd5-a90db05ef1ac)
+
 </details>
 
 ![Modelagem Conceitual](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/42adde14-1088-4512-b06c-79b1f31cbfe3)

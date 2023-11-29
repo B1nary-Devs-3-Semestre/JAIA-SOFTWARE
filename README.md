@@ -40,7 +40,7 @@ A equipe da B1nary Devs desenvolverá um sistema web abrangente que simplificar�
 ### [1º Sprint - 04/09 a 24/09](#) :white_check_mark:
 ### [2º Sprint - 25/09 a 15/10](#) :white_check_mark:
 ### [3º Sprint - 16/10 a 05/11](#) :white_check_mark:
-### [4º Sprint - 06/11 a 26/11](#)  
+### [4º Sprint - 06/11 a 26/11](#)  :white_check_mark:
 
 
 -------------------------------------------------------
@@ -103,34 +103,62 @@ A equipe da B1nary Devs desenvolverá um sistema web abrangente que simplificar�
 
 </details>
 
-![backlog 3 sprint](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/a9ba6292-8478-4c05-ba74-ac81b30811ad)
+
+-------------------------------------------------------
+
+
+![3 Sprint](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/c77d9361-2da7-40a0-a2d3-6d7f1b35270d)
 
 <details>
 <summary> Visualizar Backlog da 3º Sprint </summary>
   
 ![backlog 3 sprint](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/083b3979-2819-4816-87a9-23eb270c7391)
+
 </details>
 
-![Burndown](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/842ee106-98f2-4d3a-b081-c2dd6c70096a)
-
 <details>
-  <summary> Visualizar Burndown 3º Sprint</summary>
+  <summary> Visualizar Burndown</summary>
   
   ![burn3](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/101959064/3351f892-c97c-4352-9cd5-a90db05ef1ac)
 
 </details>
 
-![Modelagem Conceitual](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/42adde14-1088-4512-b06c-79b1f31cbfe3)
-
 <details>
-  <summary> Visualizar Modelagem Conceitual 3º Sprint </summary>
+  <summary> Visualizar Modelagem Conceitual</summary>
   
   ![Modelagem conceitual](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/4690f313-83f2-469d-ac98-e9c4ba320f80)
   
 </details>
 
-</div>
+-------------------------------------------------------
 
+![4 Sprint](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/16c808ce-839d-4865-ac64-2aac10c22209)
+
+<details>
+<summary> Visualizar Backlog da 4º Sprint </summary>
+  
+![backlog](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/99ca19af-23a8-4549-a9be-c89f233e21b8)
+
+
+</details>
+
+<details>
+  <summary> Visualizar Burndown</summary>
+  
+ ![burndown](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/6dfafc76-73c3-47de-9425-0ba6c1742ef7)
+
+
+</details>
+
+<details>
+  <summary> Visualizar Modelagem Conceitual</summary>
+  
+  ![ModeloConceitualS4](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/b9d93a90-cc83-4263-a637-ed67728b7961)
+
+  
+</details>
+
+</div>
 
 -------------------------------------------------------
 
@@ -208,6 +236,13 @@ A equipe da B1nary Devs desenvolverá um sistema web abrangente que simplificar�
 
 ![image](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/aef223f2-0808-412e-947b-ee1ed5637693)
 
+</details>
+
+<details>
+  <summary>LAUDO DE INSPEÇÃO</summary>
+
+  ### Laudo para fazer download
+![laudo](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/4b11cf8f-4ef5-466e-b31c-3329810925d0)
 
 </details>
 

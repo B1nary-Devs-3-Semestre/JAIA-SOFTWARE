@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00a4c8&height=180&section=header&text=4°+Semestre+de+Banco+Dados&animation=fadeIn&fontAlignY=35&fontSize=30&fontColor=FFFFFF"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00a4c8&height=180&section=header&text=4°+Semestre+de+Banco+de+Dados&animation=fadeIn&fontAlignY=35&fontSize=30&fontColor=FFFFFF"/>
 
 ![B1NARY INSPEC](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/9a081b92-bb7d-4a3f-8b88-f1e68f69848e)
 
